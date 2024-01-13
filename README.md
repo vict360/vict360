@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1> Hello world! </h1>
+<h1 aling="center"> Hello world! </h1>
 
 
 <!--
