@@ -1,19 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hello there, I'm Víctor Vargas 👋</h1>
 
-<h1 align="center"> Hello world! </h1>
+<img src="https://github.com/vict360/vict360/blob/main/V%C3%ADctor%20Vargas.png">
 
+## About Me 🧑‍💼
+* IT Engineer graduated from Duoc UC in Chile in 2023 with mention in <b>Data Science</b>.
+* Machine learning & Deep learning with Google Colab & Python.
+* Fullstack with Mern Stack, mayoritary oriented to Backend development, also with Django.
+* Mobile development with Ionic & Angular.
 
-<!--
-**vict360/vict360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages 🖥️
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,ts,java,nextjs,react,express,mongodb,nodejs,angular,tailwind,bootstrap,html,css,&perline=10" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Soft Skills 🤝
+* Proactive 🚀
+* Productive ⏰
+* Organized 🗃️
+* Autodidact 📚
+* Responsible 🤲 
+* Friendly 🤗
+* Analytical mind 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
